@@ -16,13 +16,18 @@ Time Series Analysis on the Zillow Rental Index
 
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/03%20-%20EDA.png)
 
+# Obtaining Stationary Data
+- Want your data to be independent of time when forecasting
+- We did this by transforming the data
+- Transformations removes trends and cycles from the data
 
 
+![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/05%20-%20All%20The%20Transformations.png)
 
 
+![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/04%20-%20Dickey%20Fuller%20Results.png)
 
+# ACF and PACF
 
-
-
-
+![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/06%20-%20PAC%20ACF.png)
 ![alt text]()
