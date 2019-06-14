@@ -44,14 +44,14 @@ Time Series Analysis on the Zillow Rental Index
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/11%20-%20CHI%20Results.png)
 
 ### Binghamton
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/15%20-%20BING%20City.png)
+![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/13%20-%20BING%20Graph.png)
+![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/14%20-%20BING%20Results.png)
 
 ### Philadelphia
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/18%20-%20PHIL%20City.png)
+![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/16%20-%20PHIL%20Graph.png)
+![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/17%20-%20PHIL%20Results.png)
 
 # Predicting Futute Median Rent
 ### Philadelphia
