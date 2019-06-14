@@ -55,14 +55,11 @@ Time Series Analysis on the Zillow Rental Index
 
 # Predicting Futute Median Rent
 ### Philadelphia
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/19%20-%20PHIL%20Future%20Graph.png)
+![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/20%20-%20PHIL%20Future%20Code.png)
 
 ### Chicago
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/21%20-%20CHI%20Future%20Graph.png)
 
 # Future Improvements
 - Add exogenous variables to make a more complete model
