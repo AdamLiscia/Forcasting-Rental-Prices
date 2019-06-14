@@ -37,30 +37,31 @@ Time Series Analysis on the Zillow Rental Index
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/09%20-%20LA%20City.png)
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/07%20-%20LA%20Graph.png)
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/08%20-%20LA%20Results.png)
-
+---
 ### Chicago
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/12%20-%20CHI%20City.png)
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/10%20-%20CHI%20Graph.png)
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/11%20-%20CHI%20Results.png)
-
+---
 ### Binghamton
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/15%20-%20BING%20City.png)
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/13%20-%20BING%20Graph.png)
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/14%20-%20BING%20Results.png)
-
+---
 ### Philadelphia
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/18%20-%20PHIL%20City.png)
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/16%20-%20PHIL%20Graph.png)
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/17%20-%20PHIL%20Results.png)
-
+---
 # Predicting Futute Median Rent
+
 ### Philadelphia
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/19%20-%20PHIL%20Future%20Graph.png)
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/20%20-%20PHIL%20Future%20Code.png)
-
+---
 ### Chicago
 ![alt text](https://github.com/AdamLiscia/Forcasting-Rental-Prices/blob/master/Photos/21%20-%20CHI%20Future%20Graph.png)
-
+---
 # Future Improvements
 - Add exogenous variables to make a more complete model
 - Build an interface where a user can enter a city and receive the forecast for that city
